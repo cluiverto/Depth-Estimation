@@ -1,0 +1,1 @@
+Depth estimation using pretrained Midas model from pyTorch HUB
